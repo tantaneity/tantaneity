@@ -23,7 +23,7 @@
 
 ## Playlists
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7vqFVvgFKwFTvDezgL68DY?utm_source=generator" width="70%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- https://open.spotify.com/embed/playlist/7vqFVvgFKwFTvDezgL68DY
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tantaneity&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
