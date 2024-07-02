@@ -21,6 +21,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tantaneity&theme=rose&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tantaneity&theme=rose&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+## Playlists
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7vqFVvgFKwFTvDezgL68DY?utm_source=generator" width="70%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tantaneity&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
