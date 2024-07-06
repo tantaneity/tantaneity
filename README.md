@@ -2,14 +2,10 @@
 
 ## 🐥 About
 
-- My name is Nikita I'm from Ukraine, I've been interested in programming for a very long time. I'm so fluent in programming, I can even write haiku in binary (jk im so stupid). I have been passionate about programming since childhood. When I was 12 years old, I created my first website. It was poorly written and was a site for my group of friends. The website's sources have not been preserved, and fortunately, I cannot show you this horror. I learned more and more from YouTube videos. My first programming language was Python, but due to hate, I decided to learn C++. At 15, I independently learned memory management and sockets in C++. Then I wanted to create something in Python. The popularity of this language grew due to bots in Telegram/Discord, and I wrote my first game bot hatetea together with my designer friend. We improved it until we both got tired. Time passed, and the number of projects grew. I faced burnout, apathy, etc., so the only thing that saved me was music. Now I am even learning to create it, which is very interesting, since music plays in my headphones 90% of the time.
-- My favorite colors are white, black, and gray. 
-- I love kittens and probably all animals. 
-- I have a bad memory.
-- My favorite drink is Monster.
-- I hate the heat and summer. 
-- My favorite artists right now are lieu, heylog, xona, quannnic, twikipedia, funeral, glaive, julie, juno. 
-- I am intelligent and reasonable, sincere, and I have red hair and green eyes. LOL, I'm like writing a profile for a dating site.
+- My name is Nikita I'm from Ukraine
+- I love music.
+- My favorite artists right now are lieu, heylog, xona, quannnic, twikipedia, funeral, glaive, julie, juno.
+- I study everything, now I'm learning math and algorithms.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/consentantaneityy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tantaneity) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18911964) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/consentantan) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/consentantaneity)
