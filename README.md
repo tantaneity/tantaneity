@@ -2,11 +2,14 @@
 
 Backend developer, Python and TypeScript. Procedural graphics in Unity on the side.
 
+Learning maths properly, and the generators further down are where it ends up.
+
 ### What I work with
 
 ```
 Python        FastAPI · Flask · Django · Celery · SQLAlchemy · aiogram
 TypeScript    NestJS · Express · React · Next.js · TypeORM
+Rust          Tauri desktop apps
 Data          PostgreSQL · Redis · MongoDB · RabbitMQ
 Infra         Docker · nginx · GitHub Actions
 Graphics      Unity · URP · C# · HLSL
