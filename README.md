@@ -19,7 +19,7 @@ Graphics      Unity · URP · C# · HLSL
 
 Nothing here is a model or a texture. Meshes are built at runtime from a handful of numbers, shaders are single passes.
 
-<img src="https://raw.githubusercontent.com/tantaneity/dandelion-gen/main/media/clock.png" width="24%"> <img src="https://raw.githubusercontent.com/tantaneity/grass-gen/main/media/meadow.png" width="24%"> <img src="https://raw.githubusercontent.com/tantaneity/butterfly-gen/main/media/species.png" width="24%"> <img src="https://raw.githubusercontent.com/tantaneity/seashell-gen/main/media/still-life.png" width="24%">
+<img src="https://raw.githubusercontent.com/tantaneity/dandelion-gen/main/media/clock.png" width="19%"> <img src="https://raw.githubusercontent.com/tantaneity/grass-gen/main/media/meadow.png" width="19%"> <img src="https://raw.githubusercontent.com/tantaneity/butterfly-gen/main/media/species.png" width="19%"> <img src="https://raw.githubusercontent.com/tantaneity/seashell-gen/main/media/still-life.png" width="19%"> <img src="https://raw.githubusercontent.com/tantaneity/bouquet-gen/main/media/bouquet.png" width="19%">
 
 [dandelion-gen](https://github.com/tantaneity/dandelion-gen) · [grass-gen](https://github.com/tantaneity/grass-gen) · [seashell-gen](https://github.com/tantaneity/seashell-gen) · [butterfly-gen](https://github.com/tantaneity/butterfly-gen) · [bouquet-gen](https://github.com/tantaneity/bouquet-gen)
 
