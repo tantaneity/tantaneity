@@ -12,10 +12,6 @@ Infra         Docker · nginx · GitHub Actions
 Graphics      Unity · URP · C# · HLSL
 ```
 
-### Code
-
-[cat-brain-service](https://github.com/tantaneity/cat-brain-service) · [repometa](https://github.com/tantaneity/repometa) · [anidex](https://github.com/tantaneity/anidex) · [stoner](https://github.com/tantaneity/stoner)
-
 ### Graphics
 
 Nothing here is a model or a texture. Meshes are built at runtime from a handful of numbers, shaders are single passes.
